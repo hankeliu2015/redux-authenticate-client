@@ -8,7 +8,7 @@ class Signup extends Component {
 
   render() {
     const {handleSubmit} = this.props;
-    
+
     return (
       <form onSubmit={handleSubmit(this.onSubmit)}>
       <fieldset>
