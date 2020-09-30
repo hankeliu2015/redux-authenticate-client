@@ -10,5 +10,4 @@ ReactDOM.render(
       <Route path='/' exact component={Welcome}></Route>
     </App>
   </BrowserRouter>,
-
   document.querySelector('#root'))
