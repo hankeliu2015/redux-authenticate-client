@@ -5,14 +5,10 @@ class Signup extends Component {
     return (
       <form>
       <fieldset>
-        <label>
-        Email
-        </label>
+        <label>Email</label>
       </fieldset>
       <fieldset>
-        <label>
-        Password
-        </label>
+        <label>Password</label>
       </fieldset>
       </form>
     )
